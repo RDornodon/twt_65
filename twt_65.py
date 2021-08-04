@@ -1,0 +1,1 @@
+for _ in[I:=input]*int(I()):print(f'0x{~int(I(),0)+8**8:06X}')
